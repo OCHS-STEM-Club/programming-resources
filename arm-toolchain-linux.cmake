@@ -1,0 +1,17 @@
+# CMake FRC ARM toolchain file (Linux)
+# Author: Alejandro Zeise
+# ---------------------------------------------------------
+set(ARM_PREFIX arm-frc-linux-gnueabi)
+
+set(CMAKE_SYSTEM_NAME Linux)
+set(CMAKE_SYSROOT /usr/${ARM_PREFIX})
+
+set(CMAKE_C_COMPILER ${ARM_PREFIX}-gcc)
+set(CMAKE_CXX_COMPILER ${ARM_PREFIX}-g++)
+
+SET_PROPERTY(GLOBAL PROPERTY TARGET_SUPPORTS_SHARED_LIBS TRUE)
+
+set(CMAKE_FIND_ROOT_PATH_MODE_PROGRAM BOTH)
+set(CMAKE_FIND_ROOT_PATH_MODE_LIBRARY BOTH)
+set(CMAKE_FIND_ROOT_PATH_MODE_INCLUDE BOTH)
+set(CMAKE_FIND_ROOT_PATH_MODE_PACKAGE NEVER)
