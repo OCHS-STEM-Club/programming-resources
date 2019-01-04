@@ -2,18 +2,36 @@ Steps to setup VSC for a FIRST environment
 
 1. Download Dependencies
  - Java https://jdk.java.net/11/
- - VSC https://code.visualstudio.com/
  - Gradle https://gradle.org/releases/
- - VsCode WPILIB extension https://github.com/wpilibsuite/vscode-wpilib/releases
- - C/C++ Toolchain http://first.wpi.edu/FRC/roborio/toolchains/
- - Git https://git-scm.com/downloads
+ - VSC https://code.visualstudio.com/
+ - FRC C/C++ Toolchain http://first.wpi.edu/FRC/roborio/toolchains/
  - Notepad++ https://notepad-plus-plus.org/
-2. Install Java (extract to Program Files, add to PATH)
-3. Install Gradle (extract to Program files, add to PATH)
+ - Git https://git-scm.com/downloads
+ - VsCode WPILIB Extension https://github.com/wpilibsuite/vscode-wpilib/releases
+ 
+2. Install Java 
+   a. Extract the install to Program Files\Java
+   b. Add the bin to the PATH
+   c. Set JAVA_HOME environment variable as the JDK folder itself
+   
+3. Install Gradle
+   a. Extract the install to Program Files\Gradle
+   b. Add the bin to the PATH
+   
 4. Install Visual Studio Code
-5. Install FRC C/C++ toolchain
+
+5. Install the FRC C/C++ toolchain
+
 6. Install Notepad++
+
 7. Install Git
-8. Open VSC, go to extensions, search for C/C++, install the Microsoft extension for C/C++
-9. Open VSC, go to extensions on the left, breadcrumbs menu at top "Install from VSIX"
-  7a. Select the downloaded VSIX file from the VSCode WPILib Github 
+   a. Set Notepad++ as your default text editor
+   
+8. Install the Microsoft extension for C/C++ in VSC
+
+9. Install the VSC WPIlib Extension through VSIX
+   a. Install the VSC WPILib Extension
+   b. In VSC, on the the extensions page, click the hamburger menu
+   c. Choose "Install from VSIX"
+   d. Select the VSIX file that was just installed
+   
