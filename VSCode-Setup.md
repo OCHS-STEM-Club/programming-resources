@@ -10,13 +10,13 @@ Steps to setup VSC for a FIRST environment
  - VsCode WPILIB Extension https://github.com/wpilibsuite/vscode-wpilib/releases
  
 2. Install Java 
-   a. Extract the install to Program Files\Java
-   b. Add the bin to the PATH
-   c. Set JAVA_HOME environment variable as the JDK folder itself
+   - Extract the install to Program Files\Java
+   - Add the bin to the PATH
+   - Set JAVA_HOME environment variable as the JDK folder itself
    
 3. Install Gradle
-   a. Extract the install to Program Files\Gradle
-   b. Add the bin to the PATH
+   - Extract the install to Program Files\Gradle
+   - Add the bin to the PATH
    
 4. Install Visual Studio Code
 
@@ -25,13 +25,13 @@ Steps to setup VSC for a FIRST environment
 6. Install Notepad++
 
 7. Install Git
-   a. Set Notepad++ as your default text editor
+   - Set Notepad++ as your default text editor
    
 8. Install the Microsoft extension for C/C++ in VSC
 
 9. Install the VSC WPIlib Extension through VSIX
-   a. Install the VSC WPILib Extension
-   b. In VSC, on the the extensions page, click the hamburger menu
-   c. Choose "Install from VSIX"
-   d. Select the VSIX file that was just installed
+   - Install the VSC WPILib Extension
+   - In VSC, on the the extensions page, click the hamburger menu
+   - Choose "Install from VSIX"
+   - Select the VSIX file that was just installed
    
