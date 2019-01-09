@@ -15,3 +15,6 @@
   
 5. Install the SPARK MAX Client
   - http://www.revrobotics.com/content/sw/max/client/spark-max-client-setup-0.11.15.exe
+
+6. Install the CTRE Phoenix Libraries
+  - https://phoenix-documentation.readthedocs.io/en/latest/ch05a_CppJava.html
