@@ -1,0 +1,9 @@
+[
+    {
+        "name": "GCC ARM Cross Compile",
+        "toolchainFile": "arm-frc-toolchain.cmake",
+        "preferredGenerator": {
+            "name": "MinGW Makefiles"
+        }
+    }
+]
