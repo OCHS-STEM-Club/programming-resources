@@ -1,5 +1,5 @@
 # The OCHS STEM Club Programmer's guide to Git and GitHub
-##### Version 1.0, 7/16/18
+##### Version 1.01, 5/13/19
 The purpose of this document is to provide helpful information on how to do various things using Git and GitHub. This guide is on using Git in the Terminal, but almost everything can be done using the graphical GitHub Desktop tool (only on Windows).
 
 This guide doesn't go over more advanced things like setting up SSH keys, signing with GPG keys, and merge conflicts to name a few things.
@@ -53,7 +53,7 @@ For example, let's say I want to clone the *programming-resources* repository. I
 So you've made some changes to a repository you've cloned, and now you want to push them. Great!
 
 #### Step 0: Setting Commit Account
-Before you actually commit anything, you should ensure that the git username and email are set to your own.  For more personal computers or projects, this won't be an issue, but on computers on which multiple users will be making commits, it's good to ensure you get credit for your hard work!  You can check the currently set global username and email by opening Git Bash and running the command ```git config --global user.[name/email]```.  You can set the same parameters per repository, but generally speaking, you'll want to set the global, unless multiple people will be using the same repository at the same time.  To change the parameters, run ```git config --global user.[name/email] ["Name/Email to be set"]```.
+Before you actually commit anything, you should always ensure that the git username and email are set to your own, as per the step 2 in Configure Git.  For more personal computers or projects, this won't be an issue, but on computers on which multiple users will be making commits, it's good to ensure you get credit for your hard work!
 
 #### Step 1: Checking your changes
 It's a good idea to check what you've changed before committing anything. To do that, simply run ```git commit```, and it should display a list of what changes haven't been committed yet.
