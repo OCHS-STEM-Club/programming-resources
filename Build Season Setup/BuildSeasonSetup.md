@@ -1,7 +1,12 @@
-1. Install the FRC VSC
-  - https://wpilib.screenstepslive.com/s/currentCS/m/cpp/l/1027500-installing-c-and-java-development-tools-for-frc
-  
-2. Install the FRC Update Suite
+# The RTR Programmer's Guide to Build Season Setup (In Revision)
+##### Version 1.0, 5/13/19
+The purpose of this document is to provide the steps required for post-2019 setup of the development and drive laptops.  Instructions on completing the steps are provided within the link included, with special instructions included within this document  when necessary.
+
+## Setting Up
+#### Step 1: Install the FRC VSC
+First, you'll need to install the FRC version of Visual Studio Code [here](https://wpilib.screenstepslive.com/s/currentCS/m/cpp/l/1027500-installing-c-and-java-development-tools-for-frc).
+
+#### Step 2: Install the FRC Update Suite
   - https://wpilib.screenstepslive.com/s/currentCS/m/cpp/l/1027499-installing-the-frc-update-suite-all-languages
   
 3. Install the FRC Radio Configuration Utility
