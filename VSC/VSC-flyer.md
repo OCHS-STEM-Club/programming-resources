@@ -3,4 +3,4 @@
 The purpose of this document is to provide helpful information on how to use Visual Studio Code, especially within the context of FRC.
 
 ##Table of Contents
-- [Setting Up]
+- [Setting Up](#setting-up)
