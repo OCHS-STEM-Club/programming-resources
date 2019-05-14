@@ -1,4 +1,4 @@
-# The OCHS STEM Club Programmer's guide to Git and GitHub
+# The OCHS STEM Club Programmer's Guide to Git and GitHub
 ##### Version 1.01, 5/13/19
 The purpose of this document is to provide helpful information on how to do various things using Git and GitHub. This guide is on using Git in the Terminal, but almost everything can be done using the graphical GitHub Desktop tool (only on Windows).
 
